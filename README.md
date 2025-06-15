@@ -19,14 +19,14 @@ https://github.com/user-attachments/assets/fb7b6607-2bb7-48ae-9ec5-7c0b26a0f9d6
 - Segue
 - 条件分岐
   
-## レベル3
+## レベル3 (発展)
 ### カウントが15を超えるまでの時間を計測しよう！
 #### ヒント
 - Timer
 - isValid
 - invalidate
 
-## レベル4
+## レベル4 (超発展)
 ### レベル3で計測した時間を、リザルト画面に渡そう！
 #### ヒント
 
